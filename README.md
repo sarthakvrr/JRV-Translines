@@ -17,7 +17,7 @@ then open http://localhost:8080
     index.html        the page
     css/style.css     all styling and animation
     js/main.js        scroll effects, counters, lightbox, mobile nav
-    assets/           logo + 9 fleet photographs
+    assets/           logo + 6 fleet photographs
 
 ## Publish
 
